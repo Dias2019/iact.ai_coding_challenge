@@ -1,0 +1,4 @@
+There are 3 branches for Oyster: 
+Ancestors of branch number 1: /m/0bl9f Food Seafood Shellfish 
+Ancestors of branch number 2: /m/0bl9f Animal Invertebrate 
+Ancestors of branch number 3: /m/0bl9f Animal Shellfish 
